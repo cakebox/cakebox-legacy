@@ -27,11 +27,11 @@
 # Important : avant de changer l'URL d'un fichier, vérifiez que le dossier extrait
 # porte bien le même nom que l'archive elle-même (sans .tar.gz bien entendu)
 # Exemple : `tar -xvf libtorrent-0.13.0.tar.gz` donne bien un dossier `libtorrent-0.13.0`
-URL_LIBTORRENT="https://github.com/MardamBeyK/Cakebox/raw/master/softwares/libtorrent-0.13.0.tar.gz"
-URL_RTORRENT="https://github.com/MardamBeyK/Cakebox/raw/master/softwares/rtorrent-0.9.0.tar.gz"
-URL_XMLRPC="https://github.com/MardamBeyK/Cakebox/raw/master/softwares/xmlrpc-c-1.25.17.tar.gz"
-URL_RUTORRENT="https://github.com/MardamBeyK/Cakebox/raw/master/softwares/rutorrent-3.4.tar.gz"
-URL_RUTORRENT_LINKCAKEBOX="https://github.com/MardamBeyK/Cakebox/raw/master/softwares/rutorrent-linkcakebox-1.0.zip"
+URL_LIBTORRENT="https://github.com/Cakebox/Cakebox/raw/master/softwares/libtorrent-0.13.0.tar.gz"
+URL_RTORRENT="https://github.com/Cakebox/Cakebox/raw/master/softwares/rtorrent-0.9.0.tar.gz"
+URL_XMLRPC="https://github.com/Cakebox/Cakebox/raw/master/softwares/xmlrpc-c-1.25.17.tar.gz"
+URL_RUTORRENT="https://github.com/Cakebox/Cakebox/raw/master/softwares/rutorrent-3.4.tar.gz"
+URL_RUTORRENT_LINKCAKEBOX="https://github.com/Cakebox/Cakebox/raw/master/softwares/rutorrent-linkcakebox-1.0.zip"
 
 # Liste des plugins qui seront installés avec rutorrent
 # Liste entière ici : http://goo.gl/cFFNa
