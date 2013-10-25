@@ -8,7 +8,7 @@
 ##    ## ##     ## ##   ##  ##       ##     ## ##     ##  ##   ##  
  ######  ##     ## ##    ## ######## ########   #######  ##     ## 
 #					par MardamBey (iam.mardambey@gmail.com)
-#					https://github.com/MardamBeyK/Cakebox
+#					https://github.com/Cakebox/Cakebox
 
 # ~~~~~~~ PARAMETRES DU SCRIPT ~~~~~~~~
 #
@@ -123,7 +123,7 @@ rm rutorrent-linkcakebox-1.0.zip && rm -R __MACOSX
 cd $WWWDIR
 
 # Installation de Cakebox
-git clone git://github.com/MardamBeyK/Cakebox.git		# Récupération dans le dépot
+git clone git://github.com/Cakebox/Cakebox.git		# Récupération dans le dépot
 mv Cakebox/ cakebox/                                            # Renommage en /cakebox
 chmod 777 cakebox/downloads cakebox/data                        # Configuration des permissions
 chmod +x cakebox/patch_update                                   # Exec de la MAJ possible
