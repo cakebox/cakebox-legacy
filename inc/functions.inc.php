@@ -373,7 +373,7 @@ function check_update()
   {
     // Files to compare
     $local_version_file     = fopen('version.txt','r');
-    $current_version_file   = fopen('https://github.com/MardamBeyK/Cakebox/raw/master/version.txt','r');
+    $current_version_file   = fopen('https://raw.github.com/Cakebox/Cakebox/master/version.txt','r');
 
     // Num of versions
     $local_version    = fgets($local_version_file);
