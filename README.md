@@ -1,3 +1,10 @@
+## CE LOGICIEL N'EST PLUS MAINTENU.
+
+La nouvelle version de Cakebox, développée désormais par @Tuxity, est disponible sur : https://github.com/Cakebox/Cakebox-light
+La version de Cakebox à laquelle vous accédez en ce moment n'est plus maintenue et ne bénéficie plus d'aucun support. Les e-mails envoyés au créateur ne sont pas lus, les issues Github non plus.
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 ## A quoi servent Cakebox et le Mardambey-script ?
 
 Le MB-script vous permet d'installer une seedbox sur votre serveur ou sur votre VPS en quelques minutes sans demander le moindre effort. Une seedbox permet de télécharger des fichiers torrent depuis une interface web très agréable et de les stocker sur un serveur distant, sans passer par votre connexion internet.
